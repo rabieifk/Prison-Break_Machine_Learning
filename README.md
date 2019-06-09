@@ -30,3 +30,15 @@ he will be arrested and exiled to the detained imprisoned until the end of his l
 
 
 The guards are at any moment with equal probability in one of the four houses marked with the * sign.
+
+In order to avoid looping and confusing agent,reward of -1 should be considered for each transfer. The policy to find between 4 direction for Steve is [boltzmann](https://en.wikipedia.org/wiki/Boltzmann_distribution) policy at first with high temperature and then reduce the parameter.
+
+When lambda is zero, [SARSA](https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action) and [Q-learning](https://en.wikipedia.org/wiki/Q-learning) are the same and just see the next state, if lamda is considered one, the result is the same as [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_algorithm) method which wait untill the end of episod.
+
+There is a tradeoff between speed and performance in such problems. this tradeoff can be controled by lambda.
+
+The best result is for monte Carlo but with most processing power and delay. 
+
+With the policy itaration, agent can find the optimal policy.
+
+
