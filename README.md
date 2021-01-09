@@ -1,5 +1,7 @@
 # Prison-Break_Machine_Learning
 
+**Objective:** Solving a prison-break problem using machine learning algorithm
+
 Here is a prisoner, Steve, He is known as a fugitive from prison.
 
 there is a [prison](https://github.com/rabieifk/Prison-Break_Machine_Learning/blob/master/Prison.png) with spetial room.
