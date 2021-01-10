@@ -1,6 +1,6 @@
 # Prison-Break_Machine_Learning
 
-**Objective:** Solving a prison-break problem using machine learning algorithm
+**Objective:** To solve a prison-break problem using machine learning algorithm
 
 Here is a prisoner, Steve, He is known as a fugitive from prison.
 
