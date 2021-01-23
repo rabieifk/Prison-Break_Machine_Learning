@@ -4,7 +4,7 @@
 
 Here is a prisoner, Steve, He is known as a fugitive from prison.
 
-there is a [prison](https://github.com/rabieifk/Prison-Break_Machine_Learning/blob/master/Prison.png) with special room.
+there is a [prison](https://github.com/rabieifk/Prison-Break_Machine_Learning/blob/master/Prison.png) with special rooms.
 
 
 At any stage, Steve can only move a house up, down, left, or right. 
